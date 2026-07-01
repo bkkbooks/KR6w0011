@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6w0011/v1
+canonical_location: https://kanripo.org/bkk/KR6w0011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說觀世音三昧經
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D11/D11n8817.xml
+    old_id: D11n8817
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0011_000.yaml, hash: 'sha256:603b548ceeaa84ed295ff6161ba7cc66e3fecced017cedd6c57a03095c5693cb'}
+  - {seq: 1, filename: KR6w0011_001.yaml, hash: 'sha256:d289bfacd5c82ebb7fa3d7617e7f71194ebecf98f82f341ebbe2d9b8f347eb48'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0011_001.markers.yaml, hash: 'sha256:c579cfcf032c1ba029ea118fbc5c03016b31d86807d338cce97713bf1cc763d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0011_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 3294
+  label: 佛󵘸觀世音三昧經
+  type: juan
+  level: 1
+hash: sha256:778010fdce133d2239f16250a271588f7a28175ebfa8d54adc273a02e9c59628
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

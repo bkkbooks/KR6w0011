@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0011/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀世音三昧經
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D11/D11n8817.xml
+    old_id: D11n8817
+hash: sha256:603b548ceeaa84ed295ff6161ba7cc66e3fecced017cedd6c57a03095c5693cb

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6w0011/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0011/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀世音三昧經
+  identifiers:
+    krp: KR6w0011
+    cbeta: D11n8817
+    cbeta_old_id: D11n8817
+    authorityid: CA0008010
+    json_key: D8817
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D11/D11n8817.xml
+    old_id: D11n8817
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0011_000-D.yaml, hash: 'sha256:603b548ceeaa84ed295ff6161ba7cc66e3fecced017cedd6c57a03095c5693cb'}
+  - {seq: 1, filename: KR6w0011_001-D.yaml, hash: 'sha256:e14e9990d72d7a1af6aad5c23623ca452213e7f034ec278dfe49f0611f30973a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0011_000-D.markers.yaml, hash: 'sha256:7ed273ed3aef2c768d8193625f063c50f8def4f5b1743a10715efdeda097e7cc'}
+  - {seq: 1, role: markers, filename: assets/KR6w0011_001-D.markers.yaml, hash: 'sha256:f7c4540bc6ca277743907f942a75c7e73ee6d50b4e624df84464b557814d806a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0011_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 3294
+  label: 佛󵘸觀世音三昧經
+  type: juan
+  level: 1
+hash: sha256:473fb7434b41f1b90c71f527ece8f0f3b6fdf7de59c9d3415c7766490ae75e20

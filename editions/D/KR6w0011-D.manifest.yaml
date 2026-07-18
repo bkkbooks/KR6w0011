@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6w0011_001-D.yaml, hash: 'sha256:e14e9990d72d7a1af6aad5c23623ca452213e7f034ec278dfe49f0611f30973a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6w0011_000-D.markers.yaml, hash: 'sha256:7ed273ed3aef2c768d8193625f063c50f8def4f5b1743a10715efdeda097e7cc'}
-  - {seq: 1, role: markers, filename: assets/KR6w0011_001-D.markers.yaml, hash: 'sha256:f7c4540bc6ca277743907f942a75c7e73ee6d50b4e624df84464b557814d806a'}
+  - {seq: 1, role: markers, filename: assets/KR6w0011_001-D.markers.yaml, hash: 'sha256:d63a328c4da84daae72df00d78e67c24cd8586b1cd1af017ba781bb329282dcb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛󵘸觀世音三昧經
   type: juan
   level: 1
-hash: sha256:473fb7434b41f1b90c71f527ece8f0f3b6fdf7de59c9d3415c7766490ae75e20
+hash: sha256:1591b8b062842eb72e9167a901bcbaedb0de5c0b26c92931fcb4e0a8a1aa2f9b

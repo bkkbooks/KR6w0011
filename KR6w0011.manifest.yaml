@@ -22,7 +22,7 @@ assets:
   - {seq: 1, filename: KR6w0011_001.yaml, hash: 'sha256:8ec20cde06f4c3d6d37511bdbf03d2c3b65bf79e48c0a556b77e9cd82ff7084a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6w0011_000.markers.yaml, hash: 'sha256:5ea56d6b47de371733e28c3c1d13a8897e55072a7e374d9d9812b2ef24d82354'}
-  - {seq: 1, role: markers, filename: assets/KR6w0011_001.markers.yaml, hash: 'sha256:1182523ea500a10e8bf263e069a55bbcde88eda956b11ecff5cc4d1cb7fb6c51'}
+  - {seq: 1, role: markers, filename: assets/KR6w0011_001.markers.yaml, hash: 'sha256:dcda1b07b0790ffb05c30f30d47d1a010781acc90f49706d84fdaa4b894db807'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,7 +34,7 @@ table_of_contents:
   label: 佛󵘸觀世音三昧經
   type: juan
   level: 1
-hash: sha256:d826a633e6d850307e916d81c5094847c1ff54a5b4bc8c7bbd8af088f7a77127
+hash: sha256:d72cd666e532df2463eae81128652a7d1f61d15927ecb6862851db7b5a1121c8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
